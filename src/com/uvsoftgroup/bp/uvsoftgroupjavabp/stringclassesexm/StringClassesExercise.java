@@ -60,7 +60,7 @@ public class StringClassesExercise {
 	
 	
 	public static void main(String args[]) {
-		// stringImmutable();
+		 stringImmutable();
 		//stringBufferAndBuilderMutable();
 		hashCodeStringAndStringBuffer();
 		//stringCompare();
