@@ -1,2 +1,2 @@
-# javabeginnerstoprofessionals_42
+# javabeginnerstoprofessionals
 java beginners to professional
