@@ -1,0 +1,1 @@
+package com.uvsoftgroup.bp.uvsoftgroupjavabp.clobmeco;
