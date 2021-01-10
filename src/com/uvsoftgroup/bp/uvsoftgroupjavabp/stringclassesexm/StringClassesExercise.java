@@ -59,10 +59,10 @@ public class StringClassesExercise {
 	}
 
 	public static void main(String args[]) {
-		//stringImmutable();
-		//stringBufferAndBuilderMutable();
-		//hashCodeStringAndStringBuffer();
-		//stringCompare();
+		stringImmutable();
+		stringBufferAndBuilderMutable();
+		hashCodeStringAndStringBuffer();
+		stringCompare();
 	}
 
 }
